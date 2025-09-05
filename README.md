@@ -1,5 +1,7 @@
 # Loadout releases (ldtrlss)
 
+[Discord](https://discord.gg/AQZmvbVV)
+
 This repository only contains binary releases. Source code is not included.
 
 - [About Gear Score](#about-gear-score)
