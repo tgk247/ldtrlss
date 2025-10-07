@@ -1,6 +1,6 @@
 # Loadout releases (ldtrlss)
 
-[Discord](https://discord.gg/AQZmvbVV)
+[Discord](https://discord.gg/6wyB4zSEsR)
 
 This repository only contains binary releases. Source code is not included.
 
