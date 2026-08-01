@@ -15,6 +15,6 @@ jobs:
           color: "2105893"
           username: "Release Changelog"
           avatar_url: "https://cdn.discordapp.com/avatars/784833852110798878/eecd0880e11707801888c3ca3813fde3.png"
-          content: "Release"
+          content: "Loadouts Release"
           footer_title: "Changelog"
           reduce_headings: true
